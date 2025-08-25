@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-
+![Sea Monster!](https://imgur.com/gallery/sea-monster-Krq2rnf)
 https://github.com/user-attachments/assets/99ba65f0-7837-4f53-93e7-2702f5c9a795
 
 <!-- Replace this with whatever GIF tool you used! -->
