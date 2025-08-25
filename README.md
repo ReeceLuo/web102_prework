@@ -25,9 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/HTGT9Me"  ><a href="//imgur.com/a/HTGT9Me">Sea Monster!</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-<img src='https://imgur.com/a/HTGT9Me.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Video Walkthrough](https://i.imgur.com/HTG9MNe.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
